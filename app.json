@@ -1,8 +1,9 @@
 
-    "name": "RUSH-MASTER",
+    {
+    "name": "Maria-MD",
     "description": "A WhatsApp bot based on Baileysjs with Multi-Device support",
     "repository": "https://github.com/AYUSH-PANDEY023/Maria-Md",
-    "logo": "https://i.imgur.com/Ftedygw.jpeg",
+    "logo": "https://telegra.ph/file/351133422917a8bd7d776.jpg",
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
       "env": {
        "OWNER_NAME": {
@@ -50,4 +51,4 @@
               "size": "eco"
           }
      }
-}
+    }
